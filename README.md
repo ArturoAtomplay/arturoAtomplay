@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hola 👋,soy Arturo</h1>
 <h3 align="center">Un desarrollador en progreso que le encanta aprender cosas nuevas</h3>
 
-<h3 align="left">Conectate conmigo:</h3>
-<h4><img align="center" src="/images/discord.png" width="40" height="40" />
-arturoAtomplay#2652</h4>
+<h2 align="left">Conectate conmigo:</h2>
+<h3><img align="center" src="/images/discord.png" width="40" height="40" /> arturoAtomplay#2652</h3>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
