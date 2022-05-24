@@ -1,64 +1,22 @@
-<!-- ### < Hola Mundo > 👋 -->
+<h1 align="center"> Hola 👋</h1> 
 
-<!--
-**arturoAtomplay/arturoAtomplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">soy un desarrollador en progreso que le encanta aprender cosas nuevas</p>
 
-Here are some ideas to get you started:
+### lenguajes y herramientas
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conectate conmigo
+![Discord](https://dcbadge.vercel.app/api/shield/624712119098802198?theme=default-inverted&logoColor=presence)
 
-<h1 align="center">Hola 👋,soy Arturo</h1>
-<h3 align="center">Un desarrollador en progreso que le encanta aprender cosas nuevas</h3>
+[![Discord Server](https://discordapp.com/api/guilds/624836560247848970/widget.png?style=banner2)](https://discord.gg/F5hSkYRjkt)
 
-<h2 align="left">Conectate conmigo:</h2>
-<h3><img align="center" src="/images/discord.png" width="40" height="40" /> arturoAtomplay#2652</h3>
+## estadísticas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturoAtomplay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"
-        ><img src="/images/nodejs.png" alt="nodejs" width="60" height="35"
-      /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-      /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
-          width="40"
-          height="40"
-      /></a>
-      <a href="https://heroku.com" target="_blank" rel="noreferrer"
-        ><img src="/images/heroku.jpg" alt="heroku" width="40" height="40"
-      /></a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer"
-        ><img src="/images/express.png" alt="express" width="40" height="40"
-      /></a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer"
-        ><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"
-      /></a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"
-        ><img src="/images/git.png" alt="git" width="40" height="40"
-      /></a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
-          width="40"
-          height="40"
-      /></a>
-</p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturoatomplay&show_icons=true&locale=en" alt="arturoatomplay"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturoAtomplay&show_icons=true&theme=radical)
