@@ -1,18 +1,17 @@
+# ¡Bienvenido a mi perfil de GitHub! 👋
 
-# Bienvenido a mi perfil de Github 👋
-
-soy un desarrollador apasionado y constantemente en búsqueda de aprendizaje y mejora en mi trabajo.
+Hola, soy un entusiasta desarrollador siempre buscando aprender y mejorar en mi trabajo.
 
 <div align="center">
   <a href="https://discord.com/users/624712119098802198">
-    <img src="https://lanyard.cnrad.dev/api/624712119098802198" alt="Discord Presence"/>
+    <img src="https://lanyard.cnrad.dev/api/624712119098802198" alt="Presencia en Discord"/>
   </a>
 </div>
 
-## 🛠 Skills
-- NodeJS
-- JavaScript
-- TypeScript
-- Supabase
-- Git
-- Rome
+## 🚀 Tecnologías y Habilidades
+- Desarrollo con Node.js, JavaScript y TypeScript.
+- Creo plugins para Minecraft utilizando Kotlin.
+- Experiencia con Supabase para manejo de datos.
+- Utilizo Git para control de versiones.
+
+¡Estoy emocionado por colaborar en proyectos interesantes y seguir aprendiendo!
