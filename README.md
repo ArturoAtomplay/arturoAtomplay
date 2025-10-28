@@ -1,17 +1,48 @@
-# ¡Bienvenido a mi perfil de GitHub! 👋
-
-Hola, soy un entusiasta desarrollador siempre buscando aprender y mejorar en mi trabajo.
-
 <div align="center">
-  <a href="https://discord.com/users/624712119098802198">
-    <img src="https://lanyard.cnrad.dev/api/624712119098802198" alt="Presencia en Discord"/>
-  </a>
+
+# ¡Hola! Soy Arturo 👋
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/624712119098802198?theme=light&showDisplayName=true&borderRadius=15px&idleMessage=Probablemente%20charlando%20o%20aprendiendo%20algo)](https://discord.com/users/624712119098802198)
+
 </div>
 
-## 🚀 Tecnologías y Habilidades
-- Desarrollo con Node.js, JavaScript y TypeScript.
-- Creo plugins para Minecraft utilizando Kotlin.
-- Experiencia con Supabase para manejo de datos.
-- Utilizo Git para control de versiones.
+---
 
-¡Estoy emocionado por colaborar en proyectos interesantes y seguir aprendiendo!
+## Sobre mí
+
+Programo como hobby y siempre busco aprender cosas nuevas. Trabajo principalmente con **TypeScript/JavaScript**, **Java/Kotlin** y **Python** para scripts. Me gusta usar **Docker**. Últimamente, estoy explorando **Rust**, porque me parece interesante.
+
+> No tengo mucho por aquí, pero me encanta charlar, compartir ideas y reconocer errores para aprender de ellos.
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/ArturoAtomplay">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoAtomplay&theme=radical" alt="Racha en GitHub"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ArturoAtomplay">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAtomplay&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ArturoAtomplay">
+          <img src="https://github-readme-stats.vercel.app/api?username=ArturoAtomplay&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Contacto
+
+- **Discord:** [arturo_atomplay](https://discord.com/users/624712119098802198)
+- **Correo:** ArturoAtomCode@proton.me
