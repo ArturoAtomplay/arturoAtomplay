@@ -19,8 +19,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?o=1
-            dist/github-snake-dark.gif?o=1&palette=github-dark
 
       - name: Commit and push
         run: |
@@ -29,4 +27,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-snake.*
           git commit -m "chore: update visuals"
+
           git push
